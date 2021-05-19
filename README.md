@@ -1,5 +1,7 @@
 # TrafficInfo
 
+Web application with the traffic cameras in the Basque Country. The purpose of this application is to test the Open Data Euskadi´s traffic API(https://opendata.euskadi.eus/api-traffic/?api=traffic).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
