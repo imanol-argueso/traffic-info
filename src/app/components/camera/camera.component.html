@@ -2,7 +2,7 @@
     <h2>Cámara de {{camera.cameraName}}</h2>
     <div *ngIf="camera" class="row animate__animated animate__bounce animate__fadeIn">
         <div class="col-md-12">
-            <img src="{{camera.urlImage}}" onerror="this.src='/assets/img/not-available.jpg'"  class="rounded" alt="Imagen de la cámara de tráfico de {{camera.cameraName}}">
+            <img src="{{camera.urlImage}}" onerror="this.src='https://imanol-argueso.github.io/traffic-info/assets/img/not-available.jpg'"  class="rounded" alt="Imagen de la cámara de tráfico de {{camera.cameraName}}">
         </div>
         <div class="metadata col-md-12">
             <p><strong>Indetificador:</strong> {{camera.cameraId}}</p>

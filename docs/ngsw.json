@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621417376015,
+  "timestamp": 1621418267574,
   "index": "/traffic-info/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/traffic-info/favicon.ico",
         "/traffic-info/index.html",
-        "/traffic-info/main.ebd36e74ae4984a73fd8.js",
+        "/traffic-info/main.d946de791fe7d1cbc78d.js",
         "/traffic-info/manifest.webmanifest",
         "/traffic-info/polyfills.94daefd414b8355106ab.js",
         "/traffic-info/runtime.7b63b9fd40098a2e8207.js",
@@ -77,8 +77,8 @@
     "/traffic-info/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/traffic-info/assets/img/not-available.jpg": "4b57f52dbb6a33b8d0cca40f0fa4193264c52374",
     "/traffic-info/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/traffic-info/index.html": "a1943d4b430c54d2442ee7918dab5bea350e8c8e",
-    "/traffic-info/main.ebd36e74ae4984a73fd8.js": "43802c078286d45593f8cbdebaeee06994c06053",
+    "/traffic-info/index.html": "e41b5437d167aa381ae1c44515b3cb91aa851a0a",
+    "/traffic-info/main.d946de791fe7d1cbc78d.js": "619bf342fce2aef2464be8028fa8719efad2afdf",
     "/traffic-info/manifest.webmanifest": "08f84bfdc6b764fcd2901948d5112526d7d463df",
     "/traffic-info/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/traffic-info/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
